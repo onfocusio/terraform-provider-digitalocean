@@ -1,3 +1,9 @@
+## 2.10.2 (July 8, 2021)
+
+IMPROVEMENTS:
+
+- `digitalocean_kubernetes_cluster`: Add option to gracefully shutdown droplet
+
 ## 2.10.1 (June 29, 2021)
 
 BUG FIXES:
